@@ -1,0 +1,3 @@
+([('EXIFScramble',
+   '/Users/chris/Desktop/EXIFScramble/dist/EXIFScramble',
+   'EXECUTABLE')],)
